@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a University of Michigan GymPal App**
 
-- 🌱 I’m currently learning **HTML/CSS** and fullstack app development
+- 🌱 I’m currently learning **HTML/CSS** and **Fullstack Movbile App Development**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

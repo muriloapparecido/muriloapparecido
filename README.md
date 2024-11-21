@@ -19,4 +19,4 @@
 
 <h3 align="left">Tune in! </h3>
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=murilo-teh-boss&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=murilo-teh-boss&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)

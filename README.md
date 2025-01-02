@@ -1,9 +1,9 @@
 <h1 align="center">Hi there, I'm Murilo Pinto Alves Apparecido</h1>
 <h3 align="center">A Computer Science major at the University of Michigan's College of Engineering</h3>
 
-- 🔭 I’m currently working on **a University of Michigan GymPal App**
+- 🔭 I’m currently working on **a University of Michigan GymPal App** and on **improving web development skills**
 
-- 🌱 I’m currently learning **HTML/CSS** and **Fullstack Mobile App Development**
+- 🌱 I’m currently learning **HTML/CSS** and **Backend Firebase Integration**
 
 <h3 align="left">Connect with me on:</h3>
 <p align="left">

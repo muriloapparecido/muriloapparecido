@@ -1,13 +1,13 @@
 <h1 align="center">Hi there, I'm Murilo Pinto Alves Apparecido</h1>
-<h3 align="center">A Computer Science major at the University of Michigan's College of Engineering</h3>
+<h3 align="center">A passionate Computer Science major at the University of Michigan's College of Engineering</h3>
 
-- 🔭 I’m currently working on **a University of Michigan GymPal App** and on **improving my web development skills**
+- 🚀 I love building apps that connect people and make daily life easier — currently developing the **IronCircle**, **Anagram** and improving my mobile app dev skills.
 
-- 🌱 I’m currently learning **JavaScript** and **Backend Firebase Integration**
+- 📚 Forever learning — diving deep into **Mobile App Deployment** and **Backend Supabase Integration** to build scalable and robust applications.
 
-- 👨‍💻 All of my projects are available at [https://muriloapparecido.github.io/portfolio-website/](https://muriloapparecido.github.io/portfolio-website/)
+- 👨‍💻 Check out all my projects at [my portfolio](https://muriloapparecido.github.io/portfolio-website/)
 
- - 📫 How to reach me **mapparec@umich.edu**
+ - 📫 Reach out anytime: **mapparec@umich.edu**
 
 
 <h3 align="left">Connect with me on:</h3>

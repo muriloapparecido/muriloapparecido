@@ -33,7 +33,12 @@
 <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 
-<h3 align="left">Here are my current top Spotify tracks for the month: </h3>
+<h3>🔥🎧 Here are my current top Spotify tracks for the month: 🎧🔥</h3>
 
-![Top Tracks](https://raw.githubusercontent.com/muriloapparecido/spotify-readme-widget/main/top-tracks.png)
+<img 
+  src="https://raw.githubusercontent.com/muriloapparecido/spotify-readme-widget/main/top-tracks.png" 
+  alt="Top Tracks"
+  style="width: 500px; height: 200px;"
+/>
+
 

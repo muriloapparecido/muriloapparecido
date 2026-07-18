@@ -5,7 +5,7 @@
 
 - 🔬 Undergraduate Research Assistant at U-M — building autonomous urban air mobility software for Chicago, including geospatial risk modeling, Theta* path planning, and a CA-ANN model for forward-looking population density predictions.
 
-- 🏥 Incoming Software Engineering Intern @ CHEPS (Center for Healthcare Engineering & Patient Safety) — building a full-stack React + PostgreSQL web interface for provider scheduling software used across Michigan Medicine.
+- 🏥 Full-Stack Engineering Intern @ CHEPS (Center for Healthcare Engineering & Patient Safety) — building a full-stack React + PostgreSQL web interface for provider scheduling software used across Michigan Medicine.
 
 - 💬 Past projects: **Anagram** (anonymous group messaging, React Native + Supabase), **Spotify Insights Dashboard** (Node.js + OAuth 2.0, live), **Cube360** (Flutter app for Google-affiliated nonprofits).
 
@@ -61,11 +61,3 @@
 </table>
 
 <br/>
-
-<h3>🔥🎧 Current top Spotify tracks: 🎧🔥</h3>
-
-<img
-  src="https://raw.githubusercontent.com/muriloapparecido/spotify-readme-widget/main/top-tracks.png"
-  alt="Top Tracks"
-  width="500"
-/>
